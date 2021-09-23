@@ -3,7 +3,7 @@ files:
 - name: undefined_variable.py
   visible: true
   placeholders:
-  - offset: 13
+  - offset: 18
     length: 0
     placeholder_text: ???
     initial_state:
@@ -22,5 +22,5 @@ files:
 status: Failed
 feedback:
   message: You should type undefined variable here
-  time: Thu, 23 Sep 2021 01:52:54 UTC
+  time: Thu, 23 Sep 2021 06:09:17 UTC
 record: -1
