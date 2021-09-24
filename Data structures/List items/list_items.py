@@ -8,4 +8,6 @@ animals[1:3] = []     # Remove 2 items -- "cat" and "giraffe" from the list
 print(animals)
 
 # Clear the list
+# animals.clear()
+animals[:] = []
 print(animals)
