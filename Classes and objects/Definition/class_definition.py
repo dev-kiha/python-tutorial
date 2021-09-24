@@ -1,5 +1,5 @@
 class MyClass:
-    variable = ???
+    variable = 'any value'
 
     def foo(self):  # We'll explain self parameter later
         print("Hello from function foo")
@@ -7,4 +7,4 @@ class MyClass:
 
 # `my_object` holds an object of the class "MyClass" that contains
 # the `variable` and the `foo` function
-my_object = ???
+my_object = MyClass()
